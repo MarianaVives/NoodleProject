@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/view-delicious-noodle-soup-with-chicken-uncooked-pasta-small-brown-bowl-spoon-garlic-dark-background_140725-139502.jpg?w=2000);
+    background-attachment: fixed;
+
+}
+
+.row-full{
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    height: 700px;
+    margin-top: 50px;
+    left: 50%;
+    padding-top: 180px;
+   }
+
+
+
+.fontTitle{
+    font-family: sans-serif;
+    font-size: 90px;
+    font-weight: 100;
+    text-align: right;
+    padding-right: 130px;
+    overflow-wrap: break-word ;
+    text-decoration-style: dashed;
+    /* color: #EBEFFF; */
+    /* text-shadow: .5px 1px rgb(172, 172, 172); */
+    color: #000000;
+ 
+
+}   
+
+.navbar{
+    color:rgb(255, 255, 255);
+    font-size: medium;
+
+}
+
+
+.bodyContent {
+    background-color: whitesmoke;
+    /* opacity: 0.7; */
+}
+
+/* FOOTER*/
+footer {
+    /* background: #353535;
+    opacity: 0.7; */
+    padding: 15px 0;
+    text-align: right;
+    color: #ffffff;
+    font-size: 12px;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+footer li {
+    display: inline-block;
+}
+footer li a {
+    padding: 6px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #c3c3c3;
+}
+footer li a:hover {
+    color: white;
+}
+
+
+
+
